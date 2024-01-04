@@ -1,0 +1,8 @@
+
+torch
+transformers
+torchaudio
+accelerate
+pandas
+torchmetrics
+nltk
